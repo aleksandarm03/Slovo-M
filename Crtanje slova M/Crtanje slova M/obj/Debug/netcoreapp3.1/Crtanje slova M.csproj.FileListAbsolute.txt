@@ -1,0 +1,15 @@
+C:\Users\aleks\OneDrive\Radna površina\Aca\Crtanje slova M\Crtanje slova M\bin\Debug\netcoreapp3.1\Crtanje slova M.exe
+C:\Users\aleks\OneDrive\Radna površina\Aca\Crtanje slova M\Crtanje slova M\bin\Debug\netcoreapp3.1\Crtanje slova M.deps.json
+C:\Users\aleks\OneDrive\Radna površina\Aca\Crtanje slova M\Crtanje slova M\bin\Debug\netcoreapp3.1\Crtanje slova M.runtimeconfig.json
+C:\Users\aleks\OneDrive\Radna površina\Aca\Crtanje slova M\Crtanje slova M\bin\Debug\netcoreapp3.1\Crtanje slova M.runtimeconfig.dev.json
+C:\Users\aleks\OneDrive\Radna površina\Aca\Crtanje slova M\Crtanje slova M\bin\Debug\netcoreapp3.1\Crtanje slova M.dll
+C:\Users\aleks\OneDrive\Radna površina\Aca\Crtanje slova M\Crtanje slova M\bin\Debug\netcoreapp3.1\Crtanje slova M.pdb
+C:\Users\aleks\OneDrive\Radna površina\Aca\Crtanje slova M\Crtanje slova M\obj\Debug\netcoreapp3.1\Crtanje slova M.csprojAssemblyReference.cache
+C:\Users\aleks\OneDrive\Radna površina\Aca\Crtanje slova M\Crtanje slova M\obj\Debug\netcoreapp3.1\Crtanje_slova_M.Form1.resources
+C:\Users\aleks\OneDrive\Radna površina\Aca\Crtanje slova M\Crtanje slova M\obj\Debug\netcoreapp3.1\Crtanje slova M.csproj.GenerateResource.cache
+C:\Users\aleks\OneDrive\Radna površina\Aca\Crtanje slova M\Crtanje slova M\obj\Debug\netcoreapp3.1\Crtanje slova M.AssemblyInfoInputs.cache
+C:\Users\aleks\OneDrive\Radna površina\Aca\Crtanje slova M\Crtanje slova M\obj\Debug\netcoreapp3.1\Crtanje slova M.AssemblyInfo.cs
+C:\Users\aleks\OneDrive\Radna površina\Aca\Crtanje slova M\Crtanje slova M\obj\Debug\netcoreapp3.1\Crtanje slova M.csproj.CoreCompileInputs.cache
+C:\Users\aleks\OneDrive\Radna površina\Aca\Crtanje slova M\Crtanje slova M\obj\Debug\netcoreapp3.1\Crtanje slova M.dll
+C:\Users\aleks\OneDrive\Radna površina\Aca\Crtanje slova M\Crtanje slova M\obj\Debug\netcoreapp3.1\Crtanje slova M.pdb
+C:\Users\aleks\OneDrive\Radna površina\Aca\Crtanje slova M\Crtanje slova M\obj\Debug\netcoreapp3.1\Crtanje slova M.genruntimeconfig.cache
